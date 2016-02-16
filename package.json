@@ -1,0 +1,20 @@
+{
+  "name": "FamilyCentral",
+  "version": "0.1.0",
+  "description": "Digital Wall Calendar Software",
+  "license": "Apache-2.0",
+  "author": {
+    "name": "Travis Towne",
+    "email": "travis.towne@atsid.com",
+    "url": "https://github.com/ttowne"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ttowne/FamilyCentral"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-serve": "^1.2.0"
+  }
+}
